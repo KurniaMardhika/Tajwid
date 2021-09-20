@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Tajwid](README.md)
+
+## Nun Mati
+
+* [Idzhar](nun-mati/idzhar.md)
 
